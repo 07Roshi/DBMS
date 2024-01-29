@@ -68,3 +68,20 @@ INSERT INTO BOOK_COPIES VALUES('B103','L1',99);
 
 ==========================================================================
 
+**************************************************************************************
+CREATE TABLE STUDENT(
+USN VARCHAR(20),
+NAME VARCHAR(20),
+DOB NUMBER(20),
+SEMESTER NUMBER(10),
+PERCENTAGE NUMBER(10));
+
+INSERT INTO STUDENT VALUES('4SF21IS092','ROSHITH',07/03/2003,5,91);
+INSERT INTO STUDENT VALUES('4SF21IS107','SONIYA',05/05/2003,5,99);
+INSERT INTO STUDENT VALUES('4SF21IS401','ABHI',03/08/2002,6,95);
+INSERT INTO STUDENT VALUES('4SF21IS024','BHOOMIKA',24/04/2003,5,99);
+INSERT INTO STUDENT VALUES('4SF21IS063','PRAJWAL',06/10/2002,6,92);
+
+
+
+**************************************************************************************
