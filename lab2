@@ -167,5 +167,11 @@ INSERT INTO BOOK1 VALUES('B105','Python','IOreilly',2014);
 INSERT INTO BOOK1 VALUES('B106','Hadoop','Pearson',2000);
 
 
-
 SELECT * FROM BOOK1 PARTITION(P1);
+
+
+5>
+
+
+
+=============================================
